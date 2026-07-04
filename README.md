@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Zaijie Jin
+<h1 align="center">Hi there 👋 I'm Zaijie Jin</h1>
 
 ### 🎓 I'm a Master's student in Hydraulic Engineering at Shanghai Maritime University.  
 ### 🌊 My research focuses on storm surge numerical forecasting and estuarine hydrodynamic modeling.  
@@ -12,9 +12,9 @@
 
 ## 🛠 Skills
 
-### - Programming: Python, SQL, Java, Dart
+### - Programming: Python, Java, Dart, SQL
 ### - Data Analysis: Pandas, NumPy, Matplotlib, SQL
-### - Tools: Git, Docker, Cursor, Codex, Claude Code
+### - Tools: Codex, Cursor, Claude Code, Git, Docker, Linux/Shell
 
 ## 📌 Featured Projects
 

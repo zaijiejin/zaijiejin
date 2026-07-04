@@ -27,5 +27,5 @@
 
 ## 📫 Contact Me
 
-- Email: your-email@example.com
-- GitHub: https://github.com/你的用户名
+- Email: jinzaijie8@163.com
+- GitHub: https://github.com/zaijiejin

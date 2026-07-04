@@ -6,24 +6,22 @@
 
 ## 🔭 Current Focus
 
-### - Storm surge numerical forecasting system
 ### - Python data analysis projects
 ### - AI product operation / strategy operation
 ### - Full-stack and mobile development
 
 ## 🛠 Skills
 
-### - Programming: Python, SQL, JavaScript, Dart
+### - Programming: Python, SQL, Java, Dart
 ### - Data Analysis: Pandas, NumPy, Matplotlib, SQL
-### - Modeling: FVCOM, WRF, Linux Shell
-### - Tools: Git, Docker, Cursor, VS Code
+### - Tools: Git, Docker, Cursor, Codex, Claude Code
 
 ## 📌 Featured Projects
 
 ### - E-commerce User Behavior Analysis
 ### - Alipay Marketing Strategy A/B Test
 ### - YRE-SURGE Storm Surge Forecasting System
-### - Enjoy-AI Town Mobile Development Internship
+### - AIGC Mobile Development Internship
 
 ## 📫 Contact Me
 
